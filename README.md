@@ -14,4 +14,6 @@ I have over 6 years of experience in .NET development (VB/C#) working as an appl
 I have been working on a full stack JavaScript program through Treehouse, as well as self-study books and documentation to this end. 
 Much of the content on my GitHub is related to those endeavors.
 
+Here's a live link to a [Course Catalog](https://course-catalog-frontend-heroku.herokuapp.com/) CRUD app I build using React, Express, Node, and Postgres.
+
 I can be contacted at: brittonashford@gmail.com or on [LinkedIn](https://www.linkedin.com/in/britton-kitchell/)
