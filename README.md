@@ -6,9 +6,11 @@ I am a full stack developer who is currently focused on the following technologi
   - React
   - Node
   - Express
+  - Next
   - GraphQL
   - Postgres
   - Jest
+  - Enzyme
 
 Here's a live link to a [Course Catalog](https://course-catalog-frontend-heroku.herokuapp.com/) CRUD app I recently build using React, Express, Node, and Postgres. 
 
