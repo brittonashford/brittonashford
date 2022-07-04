@@ -8,7 +8,7 @@ I am a full stack developer who is currently focused on the following technologi
   - Express
   - Next
   - GraphQL
-  - Postgres
+  - PostgreSQL
   - Jest
   - Enzyme
 
