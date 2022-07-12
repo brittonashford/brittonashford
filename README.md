@@ -4,6 +4,7 @@ I am a full stack developer who is currently focused on the following technologi
   - JavaScript
   - TypeScript
   - React
+  - Redux
   - Node
   - Express
   - Next
