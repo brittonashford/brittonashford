@@ -6,7 +6,7 @@ I am a full stack developer who is currently focused on the following technologi
 - **DB**: PostgreSQL, Sequelize ORM   
 - **Back-End**: Node, Express, Java (Spring/Spring Boot)  
 - **API**: REST, GraphQL/Apollo   
-- **Testing**: Jest, React Testing Library, Mock Service Worker  
+- **Testing**: Jest, React Testing Library
   
   
   
