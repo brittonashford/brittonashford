@@ -3,10 +3,10 @@
 I am a full stack developer who is currently focused on the following technologies:  
   
 - **Front-End**: JavaScript, TypeScript, React, Redux, Next, CSS3, Sass, HTML5  
-- **DB**: PostgreSQL, Sequelize ORM   
+- **DB**: PostgreSQL, Sequelize ORM, TypeORM   
 - **Back-End**: Node, Express, Java (Spring/Spring Boot)  
 - **API**: REST, GraphQL/Apollo   
-- **Testing**: Jest, React Testing Library
+- **Testing**: Jest, React Testing Library, Enzyme, Cypress
   
   
   
