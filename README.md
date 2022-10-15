@@ -2,7 +2,7 @@
 
 I am a full stack developer who is currently interested in the following technologies:  
   
-- **Front-End**: JavaScript, TypeScript, React, Next, CSS3, Sass, HTML5  
+- **Front-End**: JavaScript, TypeScript, React, Next, CSS3, Sass, HTML5, Bootstrap, MaterialUI  
 - **DB**: SQL Server, Entity Framework, PostgreSQL, Sequelize ORM, MongoDB, Cassandra   
 - **Back-End**: C#/.NET 6, Node, Express 
 - **API**: REST, GraphQL/Apollo   
