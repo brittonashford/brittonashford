@@ -7,6 +7,7 @@ I am a full stack developer who is currently interested in the following technol
 - **Back-End**: C#/.NET 6, Node, Express 
 - **API**: REST, GraphQL/Apollo   
 - **Testing**: Jest, React Testing Library, Enzyme, Cypress
+- **Version Control**: GitHub, TFS, GitLab
   
   
   
