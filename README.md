@@ -8,7 +8,7 @@ I am a full stack developer who is currently interested in the following technol
 - **API**: REST, GraphQL/Apollo   
 - **Testing**: Jest, React Testing Library, Enzyme, Cypress
 - **Version Control**: GitHub, TFS, GitLab
-- **Devops**: Docker, Kubernetes, Jenkins, Rancher
+- **DevOps**: Docker, Kubernetes, Jenkins, Rancher
   
   
   
